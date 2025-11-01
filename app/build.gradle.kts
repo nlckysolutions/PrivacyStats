@@ -39,6 +39,11 @@ android {
     buildFeatures {
         compose = true
     }
+    dependenciesInfo {
+        includeInApk = false
+        // Disables dependency metadata when building Android App Bundles (for Google Play)
+        includeInBundle = false
+    }
 }
 
 dependencies {
