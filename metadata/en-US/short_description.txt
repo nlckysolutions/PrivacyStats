@@ -1,1 +1,1 @@
-PrivacyStats checks your Android device’s privacy level based on installed packages. 
+Calculate your Android device’s privacy score based on installed apps.
