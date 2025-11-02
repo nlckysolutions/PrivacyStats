@@ -7,4 +7,7 @@ It will scan apps against these lists, and show you the apps, with uninstall but
 
 It does not use an internet connection at all, and only has the permission: QUERY_ALL_PACKAGES.
 
+[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroidButtonGreyBorder_nofont.png" height="80" alt="Get it at IzzyOnDroid">](https://apt.izzysoft.de/packages/org.nlckysolutions.privacystats)
+<!--[![RB Status](https://shields.rbtlog.dev/simple/org.nlckysolutions.privacystats?style=for-the-badge)](https://shields.rbtlog.dev/org.nlckysolutions.privacystats)-->
+
 ![PrivacyStats Screenshot](https://nlckysolutions.org/privacystats-hero2.png)
